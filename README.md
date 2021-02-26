@@ -39,13 +39,13 @@ Slough, United Kingdom for technical and business knowledge transfer.
 * Other technologies: AJAX, REST API, SOAP, Akeneo - PIM, ExtJS, Smarty, Memcache, Jive
 
 ## PROFESSIONAL EXPERIENCE
-**Team Lead, Falabella India _Nov 2019 to date_**
+### Team Lead, Falabella India _Nov 2019 to date_
 * Responsible for development and maintenance of seller facing application – Global Seller Center
 * Work with business and product owners to define new features and functionalities to enhance seller experience
 * Coordinate with cross functional teams to deliver on set goals
 * Responsible to maintaining source code
 
-**Technical Architect, Fortunesoft IT Innovations Pvt. Ltd. _May 2017 to Nov 2019_**
+### Technical Architect, Fortunesoft IT Innovations Pvt. Ltd. _May 2017 to Nov 2019_
 * Worked with management, internal teams and business stakeholders to define the release scope,
 goals and outcome to support business plan.
 * Led multiple tech teams with complete accountability of overall delivery of the product
@@ -57,7 +57,7 @@ minor releases.
 Controlling/monitoring, Closure.
 * Successful in meeting new technical challenges and finding solutions to meet the business needs.
 
-**Team Lead, IonIdea Interactive Pvt. Ltd. _Dec 2010 to May 2017_**
+### Team Lead, IonIdea Interactive Pvt. Ltd. _Dec 2010 to May 2017_
 * Monitor and communicate the progress of the project delivery and ensures timely and effective
 communication of the status to Project Manager.
 * Coordinated with various internal stakeholders that included internal Development team and Product
@@ -65,7 +65,7 @@ Management.
 * Accountable of delivering the project in terms of scope, time, and quality and making sure all the
 deliverables are approved by project sponsor(s), and stakeholders.
 
-**Senior Software Engineer, WebDreams _Oct 2009 to Dec 2010_**
+### Senior Software Engineer, WebDreams _Oct 2009 to Dec 2010_
 * Develop high quality web applications using PHP and MySQL.
 * Produce well-organized, optimized, and documented source code.
 * Debug existing source code and polish feature sets.
